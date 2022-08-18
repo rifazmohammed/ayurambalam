@@ -1,0 +1,47 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Ayurambalam-Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945.label = Ayurambalam
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_0.label = FB_IMG_1604209258113
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_1.label = IMG-20201024-WA0030
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_2.label = IMG-20201024-WA0035
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_3.label = IMG-20201024-WA0036
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_4.label = IMG-20201102-WA0023
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_5.label = IMG-20201102-WA0028
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_6.label = IMG-20201102-WA0029
+album_55C7EC17_5F4B_AFAD_41D4_8A06AF71A945_7.label = IMG-20201118-WA0001
+panorama_542C2076_5EF8_9FA8_41C9_7B9CE68BE479.label = Washroom-Honeymoon Cottage
+panorama_57781A8C_5EFF_E378_41BF_F560243BB480.label = Restaurant
+panorama_57782CD3_5EF8_60E8_41D3_3DCE05931A7A.label = Swimming Pool
+panorama_57782F88_5EF8_A178_418F_22EF0B876247.label = Honeymoon Cottage
+panorama_57783BA2_5EFF_A0A8_41A9_D79102ED315A.label = Entrance
+panorama_57784E4E_5EF8_63F8_41B3_67C87C8E728A.label = Honeymoon Cottage
+panorama_577867A7_5EFF_A0A8_41B4_2865A60140EA.label = Luxury room with balcony
+panorama_57787595_5EF8_6168_41C1_234A0C339D9E.label = Washroom - Luxury room.
+panorama_577D0F03_5EF8_A168_41D5_9598E5C4CF7E.label = View from Honeymoon Cottage
+panorama_577FA964_5EFF_A1A8_41CE_76737C5B9E9E.label = View from luxury room
+panorama_577FABCF_5EFF_A0F8_41C2_61F8973DB56A.label = Reception area
+panorama_577FCC09_5EFF_E778_41CF_CAF17C325D2A.label = Restaurant
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.ayurambalam.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.ayurambalam.com
